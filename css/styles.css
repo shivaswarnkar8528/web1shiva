@@ -1,0 +1,66 @@
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+#h1_index1{
+  font-family: Ubuntu-bold 700;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:bolder;
+
+}
+p{
+  color: grey;
+}
+.container1{
+padding: 3% 15%;
+}
+/* navbar */
+#navbar_1{
+  padding-bottom: 4.5rem;
+  padding-top: 0;
+
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size:4rem;
+  font-weight: bold;
+
+}
+.navbar-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: Montserrat-light;
+}
+
+/* Download button */
+
+.download-btn{
+  margin: 5% 3% 5% 0%;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(20deg);
+}
+
+
+/* features code */
+#features{
+  padding: 7% 15%;
+}
+
+.features-box{
+  text-align: center;
+  padding: 5%
+}
+.icon{
+  color:#ef8172;
+
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
