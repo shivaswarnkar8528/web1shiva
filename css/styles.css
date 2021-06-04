@@ -9,6 +9,16 @@
   font-weight:bolder;
 
 }
+h2{
+  font-family: Montserrat-bold;
+
+}
+.h2_testmonial{
+  font-size: 3rem;
+  font-weight:bolder;
+  color: #fff;
+  line-height: 1.5;
+}
 p{
   color: grey;
 }
@@ -63,4 +73,26 @@ padding: 3% 15%;
 }
 .icon:hover{
   color: #ff4c68;
+}
+
+
+/* Testimonials section */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:#ef8172;
+}
+.test_img1{
+  width: 10%;
+  margin: 20px;
+  border-radius: 100%;
+}
+/* press section */
+#press{
+  text-align: center;
+  background-color:#ef8172;
+}
+.press_img{
+  width: 15%;
+  margin: 20px 20px 50px;
 }
